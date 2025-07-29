@@ -1,0 +1,1 @@
+print("Hahaha, I am a Python script!")
